@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht.1.ECsharp", "Teht.1.ECsharp\Teht.1.ECsharp.csproj", "{3C504D29-5251-4EF0-8503-D9806C980735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C504D29-5251-4EF0-8503-D9806C980735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C504D29-5251-4EF0-8503-D9806C980735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C504D29-5251-4EF0-8503-D9806C980735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C504D29-5251-4EF0-8503-D9806C980735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EA97A7-E758-4788-936B-28540DFFBAD3}
+	EndGlobalSection
+EndGlobal

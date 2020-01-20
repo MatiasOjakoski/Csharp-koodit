@@ -1,0 +1,7 @@
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\bin\Debug\Teht.1.ECsharp.exe.config
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\bin\Debug\Teht.1.ECsharp.exe
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\bin\Debug\Teht.1.ECsharp.pdb
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\obj\Debug\Teht.1.ECsharp.csprojAssemblyReference.cache
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\obj\Debug\Teht.1.ECsharp.csproj.CoreCompileInputs.cache
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\obj\Debug\Teht.1.ECsharp.exe
+C:\Users\maoja\source\repos\Teht.1.ECsharp\Teht.1.ECsharp\obj\Debug\Teht.1.ECsharp.pdb

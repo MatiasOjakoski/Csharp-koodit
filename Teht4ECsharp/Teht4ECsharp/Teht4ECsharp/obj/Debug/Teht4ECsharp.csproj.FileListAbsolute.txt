@@ -1,0 +1,7 @@
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\bin\Debug\Teht4ECsharp.exe.config
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\bin\Debug\Teht4ECsharp.exe
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\bin\Debug\Teht4ECsharp.pdb
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\obj\Debug\Teht4ECsharp.csprojAssemblyReference.cache
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\obj\Debug\Teht4ECsharp.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\obj\Debug\Teht4ECsharp.exe
+D:\VisualProjects\Teht4ECsharp\Teht4ECsharp\obj\Debug\Teht4ECsharp.pdb

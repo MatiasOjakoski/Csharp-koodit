@@ -1,0 +1,14 @@
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.exe.config
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.exe
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.pdb
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.csprojAssemblyReference.cache
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.exe
+D:\VisualProjects\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.exe.config
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\bin\Debug\Teht3ECsharp.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.csprojAssemblyReference.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.csproj.CoreCompileInputs.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht3ECsharp\Teht3ECsharp\Teht3ECsharp\obj\Debug\Teht3ECsharp.pdb
