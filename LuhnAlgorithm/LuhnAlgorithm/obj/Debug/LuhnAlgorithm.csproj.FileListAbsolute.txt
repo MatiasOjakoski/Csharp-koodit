@@ -19,3 +19,10 @@ D:\VisualProjects\Palautukset\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorith
 D:\VisualProjects\Palautukset\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csproj.CoreCompileInputs.cache
 D:\VisualProjects\Palautukset\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
 D:\VisualProjects\Palautukset\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe.config
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\bin\Debug\LuhnAlgorithm.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csprojAssemblyReference.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\LuhnAlgorithm\LuhnAlgorithm\obj\Debug\LuhnAlgorithm.pdb

@@ -19,3 +19,10 @@ C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht2ECsharpFinal\Teht2ECsharpFina
 C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.csproj.CoreCompileInputs.cache
 C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.exe
 C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\bin\Debug\Teht2ECsharp.exe.config
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\bin\Debug\Teht2ECsharp.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\bin\Debug\Teht2ECsharp.pdb
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.csprojAssemblyReference.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.csproj.CoreCompileInputs.cache
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.exe
+C:\Users\maoja\Desktop\ValmiitKouluTehtävät\Gitit\Csharp-koodit\Teht2ECsharpFinal\Teht2ECsharpFinal\Teht2ECsharp\obj\Debug\Teht2ECsharp.pdb
